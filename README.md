@@ -1,7 +1,9 @@
 ### Hi there 👋
-![Raman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&hide=contribs,prs)
+![Raman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsRaman01010010
+&show_icons=true&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)](https://github.com/<your-username>/<your-repo>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsRaman01010010
+&layout=compact)](https://github.com/<your-username>/<your-repo>)
 
 <!--
 **Raman01010010/Raman01010010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
