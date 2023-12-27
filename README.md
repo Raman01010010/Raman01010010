@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Raman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsRaman01010010
+![Raman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raman01010010
 &show_icons=true&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsRaman01010010
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman01010010
 &layout=compact)](https://github.com/<your-username>/<your-repo>)
 
 <!--
